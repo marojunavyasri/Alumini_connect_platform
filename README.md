@@ -305,24 +305,3 @@ The main objective of the Alumni Mentorship Platform is to create a centralized 
 * Professional networking
 * Career opportunities
 * Knowledge sharing
-
-## 💡 Future Enhancements
-
-Possible future improvements include:
-
-* Email notifications
-* Real-time chat using WebSockets
-* Video calling for mentorship sessions
-* Advanced alumni search and recommendations
-* AI-based mentor matching
-* Resume review functionality
-* Appointment scheduling
-* Push notifications
-* Alumni success stories
-* Analytics dashboard
-
-## 👩‍💻 Author
-
-**Navya Sri Maroju**
-
-B.Tech – Information Technology
