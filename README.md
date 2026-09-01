@@ -326,7 +326,3 @@ Possible future improvements include:
 **Navya Sri Maroju**
 
 B.Tech – Information Technology
-
----
-
-⭐ If you find this project useful, consider giving the repository a star.
